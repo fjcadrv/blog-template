@@ -1,0 +1,1 @@
+REGLA PERMANENTE: Todo artículo nuevo en blog/ y toda noticia nueva en blog/noticias/ debe incluir obligatoriamente el formulario de Zoho Campaigns guardado en blog/includes/formulario-zoho.html en dos lugares: a la mitad del contenido y al final antes del footer. NUNCA agregar el formulario en blog/index.html

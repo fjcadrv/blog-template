@@ -1,0 +1,5 @@
+# AgentPro Planner — blog
+User-agent: *
+Allow: /
+
+Sitemap: https://agentproplanner.com/blog/sitemap.xml
